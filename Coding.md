@@ -14,6 +14,6 @@ Matlab signal processing of biomedical signals, such as ECG, EMG and EEG.
 ### 4. [Project Name: Modelling and Simulation Bridge Stress](https://github.com/Ohogan217/Ohogan217.github.io/tree/main/MandS)
 Matlab modelled and simulated 3d stresses in bridge as a lorry drives over it.
 
-### 5. [Project Name: Machine Learning Assignments](https://github.com/Ohogan217/Ohogan217.github.io/tree/main/MandS)
+### 5. [Project Name: Machine Learning Assignments](https://github.com/Ohogan217/Ohogan217.github.io/tree/main/ML)
 Machine learning assignments that used Matlab to create algorithms from scratch to predict Parkinson's disease based on recorded force sensor data from individuals.
 
