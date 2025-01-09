@@ -10,7 +10,7 @@ Feel free to explore the different sections below to learn more about my backgro
 
 I am a ME Biomedical engineering graduate. I have worked on a variety of projects ranging from design, to computer programming and 3d modelling. My skills span across different domains including:
 
-- **Mechanical Engineering**: [Specific skills like CAD, material analysis, thermodynamics, etc.]
+- **Mechanical Engineering**: CAD, material analysis, thermodynamics, Blender, AutoCAD Fusion, SolidWorks
 - **Software Engineering**: Python, C++, Java, Matlab
 - **Data Science/Analysis**: MATLAB, Excel, R, Minitab
 
@@ -37,57 +37,6 @@ I am passionate about solving complex problems, applying innovative solutions, a
 - **Other Tools**: [Simulink, Excel, Power BI, TensorFlow, etc.]
 
 ---
-
-## Featured Projects
-
-Here are some of the projects I've worked on, which showcase my skills and experience in various engineering domains.
-
-### 1. [Project Name: Structural Design of a Pedestrian Bridge](https://github.com/yourusername/project1)
-*Type*: Civil Engineering | **Technologies**: AutoCAD, SAP2000, Hand Calculations
-
-Description of the project:
-- Designed a pedestrian bridge using structural analysis techniques.
-- Performed load analysis, stress tests, and selected materials based on project requirements.
-- Created detailed 3D models in AutoCAD and simulated forces in SAP2000.
-- Optimized design for cost, safety, and environmental impact.
-
-[View Project Files](https://github.com/yourusername/project1)
-
----
-
-### 2. [Project Name: Automated Control System for HVAC](https://github.com/yourusername/project2)
-*Type*: Mechanical Engineering | **Technologies**: Python, Raspberry Pi, Sensors
-
-Description of the project:
-- Developed a control system for optimizing HVAC performance in buildings.
-- Used sensors for temperature and humidity detection, and implemented a feedback loop algorithm in Python.
-- Created a web interface to remotely monitor and control the system using a Raspberry Pi.
-
-[View Project Files](https://github.com/yourusername/project2)
-
----
-
-### 3. [Project Name: Embedded System for IoT Device](https://github.com/yourusername/project3)
-*Type*: Electrical Engineering | **Technologies**: C++, Arduino, PCB Design
-
-Description of the project:
-- Designed and implemented an embedded system for IoT communication.
-- Programmed an Arduino microcontroller to interface with sensors and actuators.
-- Designed a custom PCB for the IoT device to minimize size and optimize performance.
-
-[View Project Files](https://github.com/yourusername/project3)
-
----
-
-### 4. [Project Name: Machine Learning for Predictive Maintenance](https://github.com/yourusername/project4)
-*Type*: Data Science/Software Engineering | **Technologies**: Python, TensorFlow, Pandas
-
-Description of the project:
-- Developed a machine learning model to predict maintenance needs for industrial equipment.
-- Preprocessed sensor data using Pandas and trained a neural network using TensorFlow.
-- Improved predictive accuracy by integrating historical maintenance data.
-
-[View Project Files](https://github.com/yourusername/project4)
 
 ---
 
@@ -122,14 +71,4 @@ Feel free to reach out to me for collaboration, consultation, or just to discuss
 - **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
 
 ---
-
-## Acknowledgments
-
-I would like to thank [mention any mentors, collaborators, or organizations] for their support and guidance throughout my engineering career.
-
----
-
-## License
-
-This portfolio and its associated projects are licensed under the [MIT License](LICENSE), unless otherwise specified.
 
