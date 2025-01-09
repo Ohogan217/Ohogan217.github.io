@@ -1,6 +1,6 @@
-# [Your Name]'s Engineering Portfolio
+# Oisín Ó hÓgaín's Engineering Portfolio
 
-Welcome to my engineering portfolio! I am a passionate and results-driven engineer with expertise in [Your Specialization(s)], including [List your areas of expertise like Mechanical Engineering, Civil Engineering, Electrical Engineering, Software Engineering, etc.]. In this repository, you'll find a collection of my engineering projects, research work, and contributions to the field.
+Welcome to my engineering portfolio! I am a passionate and results-driven engineer with expertise in biomedical engineering and 3d modelling. In this repository, you'll find a collection of my engineering projects, research work, and contributions to the field.
 
 Feel free to explore the different sections below to learn more about my background and work.
 
@@ -8,12 +8,11 @@ Feel free to explore the different sections below to learn more about my backgro
 
 ## About Me
 
-I am a [Your Degree or Qualifications], with [X] years of experience in engineering. I have worked on a variety of projects ranging from [Describe specific types of projects, e.g., structural design, circuit simulation, software systems, etc.]. My skills span across different domains including:
+I am a ME Biomedical engineering graduate. I have worked on a variety of projects ranging from design, to computer programming and 3d modelling. My skills span across different domains including:
 
 - **Mechanical Engineering**: [Specific skills like CAD, material analysis, thermodynamics, etc.]
-- **Software Engineering**: [Languages, frameworks, tools like Python, C++, JavaScript, etc.]
-- **Electrical Engineering**: [Skills like circuit design, microcontrollers, PCB design, etc.]
-- **Data Science/Analysis**: [Tools like MATLAB, Excel, R, etc.]
+- **Software Engineering**: Python, C++, Java, Matlab
+- **Data Science/Analysis**: MATLAB, Excel, R, Minitab
 
 I am passionate about solving complex problems, applying innovative solutions, and continually improving my engineering knowledge. Through this portfolio, I aim to showcase the projects I have worked on and my growth as an engineer.
 
