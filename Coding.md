@@ -1,9 +1,8 @@
-
-## Featured Projects
+## Software Projects
 
 Here are some of the projects I've worked on, which showcase my skills and experience in various engineering domains.
 
-### 1. [Project Name: Structural Design of a Pedestrian Bridge](https://github.com/yourusername/project1)
+### 1. [Project Name: Patience](https://github.com/Ohogan217/Ohogan217.github.io/tree/main/Patience)
 *Type*: Civil Engineering | **Technologies**: AutoCAD, SAP2000, Hand Calculations
 
 Description of the project:
