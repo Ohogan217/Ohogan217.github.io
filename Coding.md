@@ -5,7 +5,7 @@ Here are some of the projects I've worked on, which showcase my skills and exper
 ### 1. [Project Name: Patience](https://github.com/Ohogan217/Ohogan217.github.io/tree/main/Patience)
 Playable game of Patience (Solitatire) created using Java Object-Oreinted programing.
 
-### 2. [Project Name: Hang Man]([https://github.com/yourusername/project2](https://github.com/Ohogan217/Ohogan217.github.io/tree/main/Hangman))
+### 2. [Project Name: Hang Man](https://github.com/Ohogan217/Ohogan217.github.io/tree/main/Hangman)
 Playable Hang Man game created using C programming
 
 ### 3. [Project Name: Biomedical Signal Processing Assignment](https://github.com/Ohogan217/Ohogan217.github.io/tree/main/Biosigs)
