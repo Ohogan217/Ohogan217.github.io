@@ -17,8 +17,7 @@ I am a ME Biomedical engineering graduate. I have worked on a variety of project
 I am passionate about solving complex problems, applying innovative solutions, and continually improving my engineering knowledge. Through this portfolio, I aim to showcase the projects I have worked on and my growth as an engineer.
 
 ---
-
-## Skills & Technologies
+## [Projects](coding.md) 
 
 ### Core Engineering Skills
 
