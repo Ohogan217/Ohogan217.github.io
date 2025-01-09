@@ -18,6 +18,7 @@ I am passionate about solving complex problems, applying innovative solutions, a
 
 ---
 ## [Coding Projects](Coding.md) 
+## [3D Projects](3DProjects.md) 
 
 ### Core Engineering Skills
 
