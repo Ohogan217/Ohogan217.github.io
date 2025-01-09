@@ -9,7 +9,7 @@ Playable game of Patience (Solitatire) created using Java Object-Oreinted progra
 Playable Hang Man game created using C programming
 
 ### 3. [Project Name: Biomedical Signal Processing Assignment](https://github.com/Ohogan217/Ohogan217.github.io/tree/main/Biosigs)
-Matlab signal processing of biomedical signals, such as ECG, and EEG. 
+Matlab signal processing of biomedical signals, such as ECG, EMG and EEG. 
 
 ### 4. [Project Name: Modelling and Simulation Bridge Stress](https://github.com/Ohogan217/Ohogan217.github.io/tree/main/MandS)
 Matlab modelled and simulated 3d stresses in bridge as a lorry drives over it.
