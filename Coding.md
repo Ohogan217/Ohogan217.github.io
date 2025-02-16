@@ -3,31 +3,50 @@
     <link rel="stylesheet" href="Mystyle.css">
   </head>
   <script>
-  function openPage(pageName, elmnt, color) {
+  function openCity(evt, cityName) {
+  // Declare all variables
   var i, tabcontent, tablinks;
+
+  // Get all elements with class="tabcontent" and hide them
   tabcontent = document.getElementsByClassName("tabcontent");
   for (i = 0; i < tabcontent.length; i++) {
     tabcontent[i].style.display = "none";
   }
-  
-  tablinks = document.getElementsByClassName("tablink");
-  for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].style.backgroundColor = "";
-  }
-  document.getElementById(pageName).style.display = "block";
 
-  elmnt.style.backgroundColor = color;
-  
+  // Get all elements with class="tablinks" and remove the class "active"
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
   }
+
+  // Show the current tab, and add an "active" class to the button that opened the tab
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+} 
   </script>
 ## Software Projects
-<div class="btn-group">
-<button class="tablink" onclick="openPage('1', this, '#78A1BF')"id = "defaultOpen>Popliteal Stent</button>
-<button class="tablink" onclick="openPage('2', this, '#78A1BF')" ">Electrodeposition System</button>
-<button class="tablink" onclick="openPage('3', this, '#78A1BF')">Guitar Strummer</button>
-<button class="tablink" onclick="openPage('4', this, '#78A1BF')">Mars Rover Wheel</button>
-<button class="tablink" onclick="openPage('5', this, '#78A1BF')">Toy Boat</button>
+ <!-- Tab links -->
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'London')">London</button>
+  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
+  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
 </div>
+
+<!-- Tab content -->
+<div id="London" class="tabcontent">
+  <h3>London</h3>
+  <p>London is the capital city of England.</p>
+</div>
+
+<div id="Paris" class="tabcontent">
+  <h3>Paris</h3>
+  <p>Paris is the capital of France.</p>
+</div>
+
+<div id="Tokyo" class="tabcontent">
+  <h3>Tokyo</h3>
+  <p>Tokyo is the capital of Japan.</p>
+</div> 
 
 
 Here are some of the projects I've worked on, which showcase my skills and experience in various engineering domains.
