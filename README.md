@@ -38,28 +38,6 @@ I am passionate about solving complex problems, applying innovative solutions, a
 
 ---
 
----
-
-## Research and Publications
-
-I have also been involved in research and academic projects. Here are a few of my notable works:
-
-- **[Title of Research Paper or Thesis](link-to-paper)** – A detailed research study on [topic], published in [Journal/Conference].
-- **[Title of Research Paper or Thesis](link-to-paper)** – Exploring the feasibility of [research topic] in [specific application/field].
-
-[Download Full Papers or Details](link)
-
----
-
-## Education & Certifications
-
-- **[Your Degree]**, [University Name], [Year]
-- **Certification in [Certification Name]**, [Issuing Organization], [Year]
-- **Other Training/Courses**:
-  - [Course Name], [Platform or Institution]
-  - [Course Name], [Platform or Institution]
-
----
 
 ## Contact Me
 
