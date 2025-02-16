@@ -23,6 +23,7 @@
   document.getElementById(cityName).style.display = "block";
   evt.currentTarget.className += " active";
 } 
+windows.onpageshow = function({document.getElementById('London'}.click())
   </script>
 ## Software Projects
  <!-- Tab links -->
